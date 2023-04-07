@@ -1,0 +1,22 @@
+footer{
+    position: fixed;
+    height: 30px;
+    background-color: rgb(61, 60, 60);
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    float: right;
+}
+  
